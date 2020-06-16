@@ -1,3 +1,4 @@
+#!/bin/bash
 # Script to Extract All JS variables and use them for XSS through GET request
 # By Rohit Soni Twitter: @rohit_sonii
 
