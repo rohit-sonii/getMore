@@ -1,6 +1,8 @@
 # getMore
 This script expands the attack surface by extracting all JS variables used in the website and creates a list of GET URLs with XSS payload. 
 
+Inspired from Intigriti's @hakluke Tweet: https://twitter.com/intigriti/status/1272145863868104705 
+
 # Installation
 **Pre-requisites:**
 ```
